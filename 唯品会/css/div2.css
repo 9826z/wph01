@@ -1,0 +1,13 @@
+#div2{
+	background-color: #f9e5fc;
+	margin-top: -5px;
+	background: url(../img/15557455461171.jpg);
+	background-size: 100%;
+	display: flex;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+}
+#div2 > img{
+	width: 20%;
+}
